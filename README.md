@@ -80,6 +80,14 @@ The submitted solution will be evaluated based on functionality, test coverage, 
 Given the time constraint we're happy to review partial solutions, as long as you're able to explain what you would have done if you'd had more time.
 The next stage of the interview process will include a discussion of your solution and potentially a pair programming session to expand on it.
 
+### Bonus points
+
+If time allows:
+
+1. Get your solution running in a Docker container or containers
+2. Describe (using the bottom of this README file):
+  - How you would model the delivery pipeline from your local to production for your solution, assuming you were going to hand it over to a team of devs to maintain?
+  - How and where would you run this in Production if cost wasnt a factor?
 
 
 
