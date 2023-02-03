@@ -82,12 +82,12 @@ The next stage of the interview process will include a discussion of your soluti
 
 ### Bonus points
 
-If time allows:
+Only if time allows, there is no obligation to complete this section:
 
 1. Get your solution running in a Docker container or containers
 2. Describe (using the bottom of this README file):
-  - How you would model the delivery pipeline from your local to production for your solution, assuming you were going to hand it over to a team of devs to maintain?
-  - How and where would you run this in Production if cost wasn't a factor?
+  - How you would model the delivery pipeline for your solution from local machine to production, assuming you were going to hand it over to a team of devs to maintain? Diagrams are welcomed.
+  - How and where would you run this in Production if cost wasn't a factor? Some rough infrastructure code or diagrams (language of your choice) would be ideal.
 
 
 
