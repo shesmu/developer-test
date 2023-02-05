@@ -1,9 +1,9 @@
 export const schedule = [
-  { flight: SA1001, date: '2022-06-20' },
-  { flight: SA1002, date: '2022-06-20' },
-  { flight: SA1003, date: '2022-06-20' },
-  { flight: SA1002, date: '2022-06-21' },
-  { flight: SA1003, date: '2022-06-21' }
+  { flight: 'SA1001', date: '2022-06-20' },
+  { flight: 'SA1002', date: '2022-06-20' },
+  { flight: 'SA1003', date: '2022-06-20' },
+  { flight: 'SA1002', date: '2022-06-21' },
+  { flight: 'SA1003', date: '2022-06-21' }
 ];
 
 export const flights = {
